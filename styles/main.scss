@@ -1,0 +1,21 @@
+$primary: rgb(4, 3, 63);
+
+.hero {
+  background-repeat: no-repeat;
+  background: linear-gradient(0deg, rgba(3, 9, 90, 0.3), rgba(83, 80, 255, 0.3)),
+    url("../public/cover.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.card :hover {
+  color: rgb(111, 13, 13);
+  transition: 1s;
+}
+
+.navbar-brand {
+  border: 2px solid rgb(255, 255, 255);
+  padding: 0 5px 0 5px;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
