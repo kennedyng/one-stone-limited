@@ -13,10 +13,7 @@ function Hero() {
         <p className=" h5">
           We are the best auto mechanic repair company. we offer hight quality services at an affordable price
         </p>
-      </div>
-      
-      
-      
+      </div> 
     </div>
     
   )
