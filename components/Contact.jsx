@@ -8,19 +8,19 @@ function Contact() {
             <div className="col-sm-12 col-md-6">
                 <h3>Contact Info</h3>
                 <h6>
-                    <i class="bi bi-envelope mx-1"></i>
+                    <i className="bi bi-envelope mx-1"></i>
                     <span>
                         Email: mestonbngosa@gmail.com
                     </span>
                 </h6>
                 <h6>
-                    <i class="bi bi-telephone mx-1"></i>
+                    <i className="bi bi-telephone mx-1"></i>
                     <span>
                         Cell: 097357145
                     </span>
                 </h6>
                 <h6>
-                    <i class="bi bi-telephone mx-1"></i>
+                    <i className="bi bi-telephone mx-1"></i>
                     <span>
                         Cell: 0977411146
                     </span>
@@ -29,7 +29,7 @@ function Contact() {
             </div>
             <div className="col-sm-12 col-md-6">
                 <h3>
-                    <i class="bi bi-geo-alt-fill mx-1"></i>
+                    <i className="bi bi-geo-alt-fill mx-1"></i>
                     <span>Location</span>
                 </h3>
                 <h6>
