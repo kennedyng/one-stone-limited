@@ -17,7 +17,8 @@ function Footer() {
                 </div>
                 <div className="col-sm-4">
                     <h6>Contact info</h6>
-                    <p>097741146</p>
+                    <p>0977511146</p>
+                    <p>09761300044</p>
                 </div>
 
 

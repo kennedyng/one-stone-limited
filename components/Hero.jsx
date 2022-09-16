@@ -8,9 +8,9 @@ function Hero() {
     <div>
       
       <div className="d-flex flex-column justify-content-center align-items-center text-white hero px-5">
-        <h5 className="">We Are Ready To Make Your Car Health Again</h5>
-        <h1 className="display-4 py-4">CAR DOCTORS</h1>
-        <p className=" h5">
+        <h2 className="">We Are Ready To Make Your Car Health Again</h2>
+        <p className="display-2 py-2 ">ZAMBIAN BEST CAR DOCTORS</p>
+        <p className="h4">
           We are the best auto mechanic repair company. we offer hight quality services at an affordable price
         </p>
       </div> 

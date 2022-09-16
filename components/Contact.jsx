@@ -16,13 +16,13 @@ function Contact() {
                 <h6>
                     <i className="bi bi-telephone mx-1"></i>
                     <span>
-                        Cell: 097357145
+                        Cell: 0973571454
                     </span>
                 </h6>
                 <h6>
                     <i className="bi bi-telephone mx-1"></i>
                     <span>
-                        Cell: 0977411146
+                        Cell: 0977511146
                     </span>
                 </h6>
                                 
@@ -33,7 +33,7 @@ function Contact() {
                     <span>Location</span>
                 </h3>
                 <h6>
-                    We are located in Lusaka, Zambia.
+                    We are located in inter city bus terminus, off Dedean Kimath Road, Lusaka Zambia.
                 </h6>
             </div>
         </div>

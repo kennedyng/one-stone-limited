@@ -18,8 +18,8 @@ const Lloyd = {
 
 
 const John = {
-    title: "Auto Mechanical Technician",
-    description: "am a well skilled technician in auto car repair"
+    title: "Electrical Mechanical Engineer",
+    description: "my name is john. am a well skilled technician in auto car repair"
 }
 
 const Meston = {
