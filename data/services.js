@@ -4,7 +4,7 @@ import machine from "../public/machine.jpg"
 export const carDiagnosis = {
     img: machine,
     title: "Car Diagnosis",
-    description: "We have high quality machines and well trained proffessional."
+    description: "We have high quality modern Diagnosis machines and well trained proffessional."
 }
 
 export const engineRepair = {

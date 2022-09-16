@@ -15,7 +15,8 @@ function About() {
             
             <p className="text-secondary">
               We are a small company specialized in automobile car repair.
-              We are specialized in Yoyota, Nissan, Ford and Mitsubshi Car brand
+              We are specialized in Yoyota, Nissan, Ford and Mitsubshi Car brand.
+              
              </p>
           </div>
         </div>

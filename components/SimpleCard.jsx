@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from "next/image"
-import cover from "../public/cover.jpg"
 
 function SimpleCard({data}) {
   return (

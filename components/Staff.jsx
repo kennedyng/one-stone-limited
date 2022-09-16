@@ -24,32 +24,32 @@ const John = {
 
 const Meston = {
     title: "Electrical Engineer",
-    description: "Hi, my name is meston."
+    description: "my name is meston an EE engineer."
 }
 
 
 const Nathan = {
     title: "Sales Manager",
-    description: "Hi, my "
+    description: ""
 }
 function Staff() {
   return (
     <div className="container pt-5 text-center" id="staff">
         <h3 className="pb-5">Our Staff</h3>
         <div className="row justify-content-center gy-5">
-            <div className="col-sm-2">
+            <div className="col-sm-4">
                 <StaffCard data={Kennedy}  />    
             </div>
-            <div className="col-sm-2">
+            <div className="col-sm-4">
                 <StaffCard data={Lloyd} />    
             </div>
-            <div className="col-sm-2">
+            <div className="col-sm-4">
                 <StaffCard data={John} />    
             </div>
-            <div className="col-sm-2">
+            <div className="col-sm-4">
                 <StaffCard data={Meston} />    
             </div>
-            <div className="col-sm-2">
+            <div className="col-sm-4">
                 <StaffCard data={Nathan} />    
             </div>
            

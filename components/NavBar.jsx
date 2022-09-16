@@ -35,20 +35,20 @@ function NavBar() {
                   Services
                 </a>
               </Link>
-            <ul className="dropdown-menu">
+            <ul className="dropdown-menu border-primary">
                 <li>
                   <Link href="#diagnosis">
-                  <a className="dropdown-item" >Professional Car diagnosis</a>
+                  <a className="dropdown-item border-bottom" >Professional Car diagnosis</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="#engine">
-                    <a className="dropdown-item">Engine Repair</a>
+                    <a className="dropdown-item border-bottom">Engine Repair</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="#suspension">
-                    <a className="dropdown-item" >Suspension Repair</a>
+                    <a className="dropdown-item border-bottom" >Suspension Repair</a>
                   </Link>
                 </li>
             </ul>

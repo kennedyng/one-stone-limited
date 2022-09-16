@@ -23,4 +23,9 @@ $primary: rgb(4, 3, 63);
   border-radius: 10px;
 }
 
+.card-image {
+  position: inherit;
+  background: linear-gradient(0deg, rgba(3, 9, 90), rgba(83, 80, 255));
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
